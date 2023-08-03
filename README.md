@@ -79,7 +79,6 @@ My roadmap to study Data Science.
 | Машинное обучение. Наука и искусство построения алгоритмов. | Флах П. | To Do |
 | Python и наука о данных для чайников | Джон Пол Мюллер | To Do |
 | Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | To Do |
-| Deep Learning with Python | Francois Chollet | To Do |
 
 ### Deep Learning
 #### Courses
