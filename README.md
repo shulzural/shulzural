@@ -69,6 +69,7 @@ My roadmap to study Data Science.
 | [Udacity](https://www.udacity.com/course/intro-to-data-science) | Intro to Data Science | To Do |
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | To Do |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |
+| [Karpov](https://karpov.courses/ml-hard) | HARD ML | To Do |
 
 #### Books
 | Title | Author | Status |
