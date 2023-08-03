@@ -140,7 +140,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/95367/promo) | Оконные функции на SQL | To Do |
-| [Stepik](https://stepik.org/course/63054/promo) | Интерактивный тренажер по SQL | To Do |
+| [Stepik](https://stepik.org/course/63054/promo) | Интерактивный тренажер по SQL | *In Progress* |
 | [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | To Do |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
