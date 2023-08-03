@@ -11,11 +11,14 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [YouTube]([https://www.datacamp.com/tracks/data-analyst-with-python](https://www.youtube.com/watch?v=Z7AY41tE-3U&list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E)) | Концепция ООП Python. selfedu | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | To Do |
+
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
 | Python. К вершинам мастерства | Лучано Рамальо | To Do |
+| Python | Марк Лутц | To Do |
 
 ### R
 #### Courses
@@ -56,6 +59,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [YouTube](https://www.youtube.com/watch?v=AOMxg933PC0&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=2) | Машинное обучение. self | To Do |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | To Do |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | To Do |
@@ -71,6 +75,8 @@ My roadmap to study Data Science.
 | --- | :---: | :---: |
 | Data Science. Наука о данных с нуля | Джоэл Грас | To Do |
 | Python и машинное обучение | Себастьян Рашка | To Do |
+| Машинное обучение. Наука и искусство построения алгоритмов. | Флах П. | To Do |
+| Python и наука о данных для чайников | Джон Пол Мюллер | To Do |
 | Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | To Do |
 
 ### Deep Learning
@@ -133,6 +139,8 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Stepik](https://stepik.org/course/95367/promo) | Оконные функции на SQL | To Do |
+| [Stepik](https://stepik.org/course/63054/promo) | Интерактивный тренажер по SQL | To Do |
 | [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | To Do |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
