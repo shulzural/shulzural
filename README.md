@@ -59,7 +59,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [YouTube](https://www.youtube.com/watch?v=AOMxg933PC0&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=2) | Машинное обучение. self | To Do |
+| [YouTube](https://www.youtube.com/watch?v=AOMxg933PC0&list=PLA0M1Bcd0w8zxDIDOTQHsX68MCDOAJDtj&index=2) | Машинное обучение. self | *In Progress* |
 | [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | To Do |
 | [Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis/) | Специализация Машинное обучение и анализ данных | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) | Data Scientist with Python | To Do |
@@ -78,7 +78,7 @@ My roadmap to study Data Science.
 | Python и машинное обучение | Себастьян Рашка | To Do |
 | Машинное обучение. Наука и искусство построения алгоритмов. | Флах П. | To Do |
 | Python и наука о данных для чайников | Джон Пол Мюллер | To Do |
-| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | To Do |
+| Прикладное машинное обучение с помощью Scikit-Learn и TensorFlow | Орельен Жерон | *In Progress* |
 
 ### Deep Learning
 #### Courses
@@ -90,6 +90,8 @@ My roadmap to study Data Science.
 | [OpenDataScience](https://dlcourse.ai/) | Deep Learning на пальцах | To Do |
 | [Udemy](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Complete Guide to TensorFlow for Deep Learning with Python | To Do |
 | [Udacity](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Intro to Deep Learning with PyTorch | To Do |
+| [Stepik](https://www.udacity.com/course/deep-learning-pytorch--ud188) | Нейронные сети и обработка текста | *In Progress* |
+
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
@@ -140,7 +142,7 @@ My roadmap to study Data Science.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Stepik](https://stepik.org/course/95367/promo) | Оконные функции на SQL | To Do |
+| [Stepik](https://stepik.org/course/95367/promo) | Оконные функции на SQL | **Completed** |
 | [Stepik](https://stepik.org/course/63054/promo) | Интерактивный тренажер по SQL | *In Progress* |
 | [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | To Do |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
@@ -210,7 +212,7 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/learn/machine-learning-probability-and-statistics) | Probability & Statistics for Machine Learning & Data Science | To Do |
 | [DataCamp](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) | Statistics Fundamentals with Python | To Do |
 | [Stepik](https://stepik.org/course/76/) | Основы статистики | **Completed** |
-| [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | To Do |
+| [Stepik](https://stepik.org/course/524/) | Основы статистики. Часть 2 | *In Progress* |
 | [Stepik](https://stepik.org/course/2152/) | Основы статистики. Часть 3 | To Do |
 | [Stepik](https://stepik.org/course/3089/) | Теория вероятностей | *In Progress* |
 #### Books
