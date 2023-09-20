@@ -17,7 +17,7 @@ My roadmap to study Data Science.
 #### Books
 | Title | Author | Status |
 | --- | :---: | :---: |
-| Python. К вершинам мастерства | Лучано Рамальо | To Do |
+| Python. К вершинам мастерства | Лучано Рамальо | **In progress** |
 | Python | Марк Лутц | To Do |
 | Чистый Python | Дэн Бейдер | To Do |
 
