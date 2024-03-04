@@ -71,6 +71,7 @@ My roadmap to study Data Science.
 | [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp) | Python for Data Science and Machine Learning Bootcamp | To Do |
 | [Udemy](https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on) | Data Science, Deep Learning, & Machine Learning with Python | To Do |
 | [Karpov](https://karpov.courses/ml-hard) | HARD ML | To Do |
+| [Сколтех] | Рекомендательные системы | *In Progress* |
 
 #### Books
 | Title | Author | Status |
@@ -100,7 +101,7 @@ My roadmap to study Data Science.
 | Глубокое обучение без математики. Том 2. Практика | Эндрю Гласснер | To Do |
 | Глубокое обучение на Python | Франсуа Шолле | To Do |
 | Глубокое обучение. Погружение в мир нейронных сетей | С. Николенко, А. Кадурин, Е. Архангельская | To Do |
-| Грокаем глубокое обучение | Эндрю Траск | To Do |
+| Грокаем глубокое обучение | Эндрю Траск | *In progress* |
 | Программируем с PyTorch: создание приложений глубокого обучения | Ян Пойнтер | To Do |
 
 ### MLOps
@@ -121,7 +122,6 @@ My roadmap to study Data Science.
 | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing Specialization | To Do |
 | [Stepik](https://stepik.org/course/54098) | Нейронные сети и обработка текста | To Do |
 | [Udemy](https://www.udemy.com/nlp-natural-language-processing-with-python) | NLP - Natural Language Processing with Python | To Do |
-| Корпоративный университет Сбербанка | Архитектура нейронных сетей: трансформеры | To Do |
 | Корпоративный университет Сбербанка | Natural Language Processing (NLP), углубленный курс | To Do |
 #### Books
 | Title | Author | Status |
@@ -144,7 +144,7 @@ My roadmap to study Data Science.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/95367/promo) | Оконные функции на SQL | **Completed** |
-| [Stepik](https://stepik.org/course/63054/promo) | Интерактивный тренажер по SQL | *In Progress* |
+| [Stepik](https://stepik.org/course/63054/promo) | Интерактивный тренажер по SQL | **Completed** |
 | [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | To Do |
 | [Coursera](https://www.coursera.org/specializations/learn-sql-basics-data-science) | Learn SQL Basics for Data Science Specialization | To Do |
 | [Coursera](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) | Modern Big Data Analysis with SQL Specialization | To Do |
